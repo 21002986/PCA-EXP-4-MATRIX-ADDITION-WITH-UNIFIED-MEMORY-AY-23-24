@@ -1,5 +1,5 @@
 # PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY AY 23-24
-<h3>Name:K.SaiVinay</h3>
+<h3>Name:K.Sai Vinay</h3>
 <h3>Reg.No:212221040069</h3>
 <h3>Ex.No:04</h3>
 <h3>Date:10/04/24</h3>
