@@ -1,9 +1,8 @@
 # PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY AY 23-24
-<h3>AIM:</h3>
-<h3>ENTER YOUR NAME:K.SaiVinay</h3>
-<h3>ENTER YOUR REGISTER NO:212221040069</h3>
-<h3>EX.NO:04</h3>
-<h3>DATE:10/04/24</h3>
+<h3>Name:K.SaiVinay</h3>
+<h3>Reg.No:212221040069</h3>
+<h3>Ex.No:04</h3>
+<h3>Date:10/04/24</h3>
 <h1> <align=center> MATRIX ADDITION WITH UNIFIED MEMORY </h3>
   Refer to the program sumMatrixGPUManaged.cu. Would removing the memsets below affect performance? If you can, check performance with nvprof or nvvp.</h3>
 
@@ -580,14 +579,15 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
+
 WITH MEMSETS
+
 ![Screenshot 2024-04-10 110252](https://github.com/21002986/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/112633513/78874bab-eb1d-45cb-8fa0-e5b630f0a142)
 
 
 WITHOUT MEMSETS
+
 ![Screenshot 2024-04-10 112049](https://github.com/21002986/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/112633513/73e9f01c-9821-4453-a1ff-6947b9663270)
-
-
 
 ## RESULT:
 Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more 0.02 time.
